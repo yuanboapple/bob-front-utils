@@ -1,0 +1,23 @@
+{
+  "name": "bob-front-utils",
+  "version": "1.0.0",
+  "description": "Bob前端常用函数工具npm库",
+  "main": "./dist/bob-front-utils.js",
+  "scripts": {
+     "build:watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanboapple/bob-front-utils.git"
+  },
+  "author": "Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanboapple/bob-front-utils/issues"
+  },
+  "homepage": "https://github.com/yuanboapple/bob-front-utils#readme",
+  "dependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
